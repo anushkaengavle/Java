@@ -9,7 +9,7 @@ public class challenge1 {
         Boolean x = (rem == 0.00); 
         // Boolean x = rem==0.00 ? true : false ;//other way 
 
-        if ((x==true)){
+        if ((x)){
         System.out.println("The Remainder was 0");
         }else{
         System.out.println ("You got some Remainder.");
