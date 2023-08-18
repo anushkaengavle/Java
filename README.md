@@ -1,1 +1,2 @@
-# Java-Design-Pattern
+# Java 
+Practicing basic of java
